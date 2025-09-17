@@ -1,0 +1,20 @@
+{
+  "title": "CSS 342: Data Structures and Algorithms I Projects",
+  "subtitle": "Comprehensive C++ projects on class design, recursion, templates, sorting, and data structures",
+  "description": "A portfolio of C++ projects completed for CSS 342 focusing on advanced programming concepts including class design with operator overloading, recursive algorithms, templated linked lists, sorting algorithm analysis, and a transaction-driven banking system with queues and binary search trees. Projects demonstrate solid object-oriented programming and algorithmic problem-solving skills.",
+  "technologies": [
+    "C++",
+    "Object-Oriented Programming",
+    "Recursion",
+    "Templates",
+    "Sorting Algorithms",
+    "Queues and Trees",
+    "Data Structures"
+  ],
+  "image": "",
+  "category": "School",
+  "links": {
+    "github": "https://github.com/O-xix/CSS342_Coursework",
+    "demo": ""
+  }
+}
